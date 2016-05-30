@@ -1,0 +1,4 @@
+three 
+basic 
+ways 
+testing
